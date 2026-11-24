@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Overwatch®, A FUTURE WORTH FIGHTING FOR! Overwatch® is an always-on and ever-evolving free-to-play, team-based action game set in an optimistic future, where every match is the ultimate 5v5 or 6v6 battlefield brawl.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows® 10 64-bit (latest Service Pack) | macOS 11.0 or later |
+| **Processor** | Min: Intel® Core™ i3 or AMD Phenom™ X3 8650 / Rec: Intel® Core™ i7 or AMD Ryzen™ 5 | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 6 GB RAM / Rec: 8 GB RAM | 6 GB RAM |
+| **Graphics** | Min: NVIDIA® GeForce® GTX 600 series, AMD Radeon™ HD 7000 se… / Rec: NVIDIA® GeForce® GTX 1060/ GeForce® GTX 1650 or AMD R9 … | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 50 GB available space | 50 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
 
 ---
 
